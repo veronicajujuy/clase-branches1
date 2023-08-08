@@ -9,3 +9,4 @@ function ChauNosVemosClaseViene(camada) {
 
 Hola("Camada1");
 ChauNosVemosClaseViene("Camada1");
+Hola("Chicos");
